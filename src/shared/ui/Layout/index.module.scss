@@ -1,0 +1,16 @@
+.layout {
+  //min-height: 100dvh !important;
+  //max-height: 100dvh !important;
+  //overflow: hidden !important;
+  //position: relative !important;
+}
+
+
+@media (max-width: 576px) {
+  .layout {
+    // overflow-y: auto;
+    // overflow: auto !important;
+    // min-height: auto !important;
+    // max-height: auto !important;
+  }
+}
